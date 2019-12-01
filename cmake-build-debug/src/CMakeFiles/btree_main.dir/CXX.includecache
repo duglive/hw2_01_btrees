@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dagalaev/dz/hw2_01_btrees/src/btree.cpp
+btree.h
+/Users/dagalaev/dz/hw2_01_btrees/src/btree.h
+stdexcept
+-
+cstring
+-
+
+/Users/dagalaev/dz/hw2_01_btrees/src/btree.h
+string
+-
+fstream
+-
+list
+-
+utils.h
+/Users/dagalaev/dz/hw2_01_btrees/src/utils.h
+
+/Users/dagalaev/dz/hw2_01_btrees/src/main.cpp
+iostream
+-
+assert.h
+-
+stdexcept
+-
+btree.h
+/Users/dagalaev/dz/hw2_01_btrees/src/btree.h
+
+/Users/dagalaev/dz/hw2_01_btrees/src/utils.h
+
