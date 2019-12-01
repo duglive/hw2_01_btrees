@@ -188,6 +188,8 @@ public:
          */
         Byte* getKey(UShort num);
 
+        int searchAll(const Byte* key, std::list<Byte*>& keys);
+
         /** \brief Копирует значение ключа в адрес \c dst из адреса \c src. 
          *
          *  Ключи могут принадлежать разным страницам, но размер страницы берется из текущей.
@@ -563,6 +565,8 @@ public:
 
     ///** \brief Константный вариант метода getWorkPage(). */
     //const PageWrapper& getWorkPage() const { return _workPage; }
+
+
 
 
     //PageWrapper& getWP0() { return _wp0; }  ///< DONE:

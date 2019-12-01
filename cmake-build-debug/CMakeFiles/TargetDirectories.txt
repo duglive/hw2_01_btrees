@@ -1,0 +1,8 @@
+/Users/dagalaev/dz/hw2_01_btrees/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dagalaev/dz/hw2_01_btrees/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dagalaev/dz/hw2_01_btrees/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/Users/dagalaev/dz/hw2_01_btrees/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/Users/dagalaev/dz/hw2_01_btrees/cmake-build-debug/src/CMakeFiles/btree_main.dir
+/Users/dagalaev/dz/hw2_01_btrees/cmake-build-debug/tests/CMakeFiles/rebuild_cache.dir
+/Users/dagalaev/dz/hw2_01_btrees/cmake-build-debug/tests/CMakeFiles/edit_cache.dir
+/Users/dagalaev/dz/hw2_01_btrees/cmake-build-debug/tests/CMakeFiles/tests.dir
